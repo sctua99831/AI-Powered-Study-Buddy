@@ -12,10 +12,9 @@ st.title("🎓 AI-Powered Study Buddy")
 st.write("""
 Your personal AI study companion!  
 You can:
-- 💡 Explain complex topics in simple terms  
-- 📚 Summarize your study notes  
-- 🧠 Generate quizzes and flashcards from notes  
-All powered by **Google Gemini AI**.
+- 💡 Explain complex topics in simple terms.  
+- 📚 Summarize your study notes.  
+- 🧠 Generate quizzes and flashcards from notes.
 """)
 
 # ----------------------------
@@ -159,4 +158,5 @@ Text:
 # Footer
 # ----------------------------
 st.markdown("---")
+
 
